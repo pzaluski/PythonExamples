@@ -1,0 +1,1 @@
+print(type(tuple(list(range(20)))))
