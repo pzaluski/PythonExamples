@@ -1,0 +1,2 @@
+To jest pierwsza linia, ktora chyba sie nie konczy
+dopiero tutaj
